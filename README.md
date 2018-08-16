@@ -1,1 +1,1 @@
-# blockchain-sandbox-app
+# Blockchain Sandbox Application
